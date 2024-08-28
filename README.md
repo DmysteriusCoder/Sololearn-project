@@ -1,2 +1,2 @@
 # Sololearn-project
-### A project by sololearn to learn Web sevelopment
+### A project by sololearn to learn Web development
